@@ -10,7 +10,7 @@ I felt heavily inspired by this artwork due to a visit to Shibuya a few months b
 During the design phases, I needed a way to seperate this artwork from "just another copy of Andrew Gysin's work". While considering appropiate alternatives, I realised that a Japanese "Secretive Singer" had very similar brand designs, and begun imagining concepts. (Davies, 2026)
 
 > **Context: The Japanese Secretive Singer**  
-> Ado is a Japanese Singer based in Tokyo who is known for her undeniable vocal skills and secretive identity who I have been following the journey of since the debut of her album "歌ってみたアルバム" in 2023.  
+> Ado is a Japanese Singer based in Tokyo who is known for her undeniable vocal skills and secretive identity who I have been following the journey of since the debut of her album "歌ってみたアルバム" in 2023. (Ado, 2023)
 > [Ado on Wikipedia (Community-ran)](https://en.wikipedia.org/wiki/Ado_(singer))  
 > Ado on [YouTube](https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA) / [NicoNico](https://www.nicovideo.jp/user/39170211/video?ref=pc_userpage_menu)
 
@@ -33,3 +33,4 @@ To create the wave effect in the background, I used the "sin()" function inside 
 
 ### References
 Davies, L. (2026) S1: Creative Coder Study. An Assessment Submission.
+Ado (2023) Adoの歌ってみたアルバム. Tokyo: CloudNine. Available at: https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf.
