@@ -1,4 +1,7 @@
-# Experiment 1: Find a 2d design or visual pattern that inspires you
+# Experiment 1: Find a 2d design or visual pattern that inspires you  
+  
+[View live experiment](live/experiment1/index.html)
+
 
 ## Version 1
 Unfortunately, I did not save any screenshots of the initial version, although can describe how it worked functionally. For future experiments however, I have ensured I have evidence of the base versions, as well as the later iterations of each experiment.
