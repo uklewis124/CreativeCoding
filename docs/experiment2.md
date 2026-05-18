@@ -1,4 +1,4 @@
-# Experiment 2: Find a 2d design or visual pattern that inspires you
+# Experiment 2: A keyboard driven visual and audio instrument - see Patatap where a keystroke triggers different effects 
 
 [View live example (May not work due to p5 audio library)](live/experiment2/)
 [View p5 editor](https://editor.p5js.org/uklewis124/full/HKzoZqaqn)
