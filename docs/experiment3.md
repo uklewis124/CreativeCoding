@@ -1,6 +1,7 @@
 # Experiment 3: An interactive and complex system of behaviour, with many independent elements, making use of classes to represent ideas or elements.
 
 [View live example (May not work due to p5 audio library)](live/experiment3/)
+[See live on p5 editor](https://editor.p5js.org/uklewis124/full/0vIkQtuuG)
   
 ## Version 1  
 This experiment explicitly encourages the use of AI, with the brief allowing 70% AI creation, 30% User creation. To meet this request, I will be generating the first portion of the project - the base - entirely using AI and prompts to fix it. "Vibe Coding". Afterwards, I will explain what the code it has made does at a high-level, and then iterate without the use of AI for version 2 and 3.  
